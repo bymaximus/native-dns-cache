@@ -19,7 +19,7 @@
   "scripts": {
   },
   "dependencies": {
-    "binaryheap": "https://github.com/bymaximus/node-binaryheap.git",
+    "binaryheap": "https://github.com/bymaximus/node-binaryheap/tarball/69055e1519982560102a7bc02117fc926cf4bb3a",
     "native-dns-packet": ">= 0.0.1"
   },
   "devDependencies": {
